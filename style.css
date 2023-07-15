@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    background-color: #616;
+    font-family: 'Comic Sans MS';
+    color: #eee;
+    z-index: 1;
+}
+
+
+canvas{
+    border: 0;
+    position: fixed;
+    z-index: 0;
+}
+
