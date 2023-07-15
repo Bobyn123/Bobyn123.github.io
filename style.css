@@ -58,3 +58,19 @@ body {
   height: 100vh;
   place-items: center;
 }
+
+#left_container{
+	background-color:darkseagreen;
+	float: left;
+	width: 100%;
+	margin-right: -300px;
+}
+#right_container{
+	background-color:cyan;
+	width: 300px;
+	float: left;
+}
+#left_content_container{
+	background-color:plum;
+	margin-right: 300px;
+}
