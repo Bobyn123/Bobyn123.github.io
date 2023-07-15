@@ -12,7 +12,7 @@ var context = document.querySelector("canvas").getContext("2d");
 // I find having it the full height makes it make a scroll bar
 // which like, ew
 canvas.width = window.innerWidth;
-canvas.height = window.innerHeight*0.99;
+canvas.height = window.innerHeight;
 
 // if it resizes it won't shit itself
 window.addEventListener('resize',function(event){
