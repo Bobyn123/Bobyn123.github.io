@@ -64,7 +64,7 @@ function animate(){
     // I would recommend commenting this out temporarily to see what it does 'cause it looks cool
     // put it back tho
     context.beginPath();
-    context.fillStyle = "#616";
+    context.fillStyle = "#301934";
     context.fillRect(0, 0, canvas.width, canvas.height);
     context.fill();
 
