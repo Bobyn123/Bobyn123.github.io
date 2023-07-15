@@ -7,7 +7,8 @@ html, body {
 
 body{
     margin-top: 0;
-    background-color: #301934, rgb(48, 25, 52);
+    background-color: #301934;
+    background-color: rgb(48, 25, 52);
     font-family: 'Comic Sans MS', 'Times New Roman';
     color: #eee;
     z-index: 1;
