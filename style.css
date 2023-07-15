@@ -5,8 +5,7 @@ html, body {
 
 body{
     background-color: #301934;
-    font-family: 'Comic Sans MS';
-    font-family: 'Times New Roman';
+    font-family: 'Comic Sans MS', 'Times New Roman';
     color: #eee;
     z-index: 1;
 }
