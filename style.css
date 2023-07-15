@@ -1,4 +1,15 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
 
+body{
+    margin-top: 0;
+    background-color: #301934, rgb(48, 25, 52);
+    font-family: 'Comic Sans MS', 'Times New Roman';
+    color: #eee;
+    z-index: 1;
+}
 
 
 canvas{
