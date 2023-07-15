@@ -70,7 +70,7 @@ function animate(){
 
     // arbitrary, change as you see fit
     // size of circle around mouse
-    var size = canvas.height/12;
+    var size = canvas.height/18;
 
     // the loop of hell
     for(i = size; i > 0; i--){
