@@ -10,6 +10,6 @@ body{
 canvas{
     border: 0;
     position: fixed;
-    z-index: 0;
+    z-index: -2;
 }
 
